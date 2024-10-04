@@ -2,7 +2,12 @@ body {
   font-family: 'Lato', sans-serif;
   height: 100vh;
   margin: 0;
-  padding: 1rem;
+  padding: 0;
   background-color: rgb(45 212 191);
   color: #fff;
+}
+
+#root {
+  height: 100vh;
+  padding: 1rem;
 }
